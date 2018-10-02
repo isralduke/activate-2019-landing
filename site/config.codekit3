@@ -9,6 +9,92 @@
 	],
 "creatorBuild": "28901",
 "files": {
+	"/assets/fonts/panton/font.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/assets/fonts/panton/font-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/fonts/panton/generator_config.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/assets/fonts/panton/generator_config.txt",
+		"oF": 0
+		},
+	"/assets/fonts/panton/panton-extrabold-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/assets/fonts/panton/panton-extrabold-demo.html",
+		"oF": 0
+		},
+	"/assets/fonts/panton/panton-extrabold-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/assets/fonts/panton/panton-extrabold-webfont.woff",
+		"oF": 0
+		},
+	"/assets/fonts/panton/panton-extrabold-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/assets/fonts/panton/panton-extrabold-webfont.woff2",
+		"oF": 0
+		},
+	"/assets/fonts/panton/panton-regular-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/assets/fonts/panton/panton-regular-demo.html",
+		"oF": 0
+		},
+	"/assets/fonts/panton/panton-regular-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/assets/fonts/panton/panton-regular-webfont.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/panton/panton-regular-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/assets/fonts/panton/panton-regular-webfont.woff",
+		"oF": 0
+		},
+	"/assets/fonts/panton/panton-regular-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/assets/fonts/panton/panton-regular-webfont.woff2",
+		"oF": 0
+		},
+	"/assets/fonts/panton/specimen_files/grid_12-825-55-15.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/assets/fonts/panton/specimen_files/grid_12-825-55-15-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/fonts/panton/specimen_files/specimen_stylesheet.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/assets/fonts/panton/specimen_files/specimen_stylesheet-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/assets/images/activate-2019-banner-image-recent-hackathon-winners.jpg": {
 		"ft": 16384,
 		"iS": 110208,
@@ -41,12 +127,34 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/assets/images/photos/01-t.jpg": {
+		"ft": 16384,
+		"iS": 99017,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/assets/images/photos/01-t.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/images/photos/01.jpg": {
 		"ft": 16384,
 		"iS": 193291,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/assets/images/photos/01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/photos/02-t.jpg": {
+		"ft": 16384,
+		"iS": 82971,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/assets/images/photos/02-t.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -63,12 +171,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/images/photos/03-t.jpg": {
+		"ft": 16384,
+		"iS": 103746,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/assets/images/photos/03-t.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/images/photos/03.jpg": {
 		"ft": 16384,
 		"iS": 164838,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/assets/images/photos/03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/photos/04-t.jpg": {
+		"ft": 16384,
+		"iS": 91255,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/assets/images/photos/04-t.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -85,12 +215,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/images/photos/05-t.jpg": {
+		"ft": 16384,
+		"iS": 93056,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/assets/images/photos/05-t.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/images/photos/05.jpg": {
 		"ft": 16384,
 		"iS": 187695,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/assets/images/photos/05.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/photos/06-t.jpg": {
+		"ft": 16384,
+		"iS": 79941,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/assets/images/photos/06-t.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -107,12 +259,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/images/photos/07-t.jpg": {
+		"ft": 16384,
+		"iS": 81170,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/assets/images/photos/07-t.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/images/photos/07.jpg": {
 		"ft": 16384,
 		"iS": 167249,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/assets/images/photos/07.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/photos/08-t.jpg": {
+		"ft": 16384,
+		"iS": 111351,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/assets/images/photos/08-t.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -129,12 +303,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/images/photos/09-t.jpg": {
+		"ft": 16384,
+		"iS": 99808,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/assets/images/photos/09-t.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/images/photos/09.jpg": {
 		"ft": 16384,
 		"iS": 202235,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/assets/images/photos/09.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/photos/10-t.jpg": {
+		"ft": 16384,
+		"iS": 66657,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/assets/images/photos/10-t.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -151,12 +347,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/images/photos/11-t.jpg": {
+		"ft": 16384,
+		"iS": 87893,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/assets/images/photos/11-t.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/images/photos/11.jpg": {
 		"ft": 16384,
 		"iS": 170537,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/assets/images/photos/11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/photos/12-t.jpg": {
+		"ft": 16384,
+		"iS": 101411,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/assets/images/photos/12-t.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -205,19 +423,6 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/assets/style/_custom.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"/assets/style/_fonts.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 1,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "/assets/style/_fonts.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1

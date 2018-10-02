@@ -1,4 +1,5 @@
 .btn-light {
+	font-family: 'pantonextrabold';
 	background-color: $white;
 	color: $red;
 	border: none;
@@ -14,6 +15,7 @@ body {
 	background-color: $navy;
 	color: $white;
 	background-image: url('../images/bg-tile.png');
+	font-family: 'pantonregular';
 }
 .banner-image {
 	position: absolute;
