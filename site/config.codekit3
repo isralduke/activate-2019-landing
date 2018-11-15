@@ -7,7 +7,7 @@
 		"uuidString": "A4FF3EA2-EF53-41E6-9F75-B1A9FA12CA76"
 		}
 	],
-"creatorBuild": "28901",
+"creatorBuild": "28905",
 "files": {
 	"/assets/fonts/panton/font.css": {
 		"aP": 1,
@@ -497,6 +497,20 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/assets/pdf/activate-sponsor-deck-2019.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/assets/pdf/activate-sponsor-deck-2019.pdf",
+		"oF": 0
+		},
+	"/assets/pdf/Activate-Sponsor-Package.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/assets/pdf/Activate-Sponsor-Package.pdf",
+		"oF": 0
 		},
 	"/assets/style/_bootstrap.scss": {
 		"aP": 1,
